@@ -1,0 +1,4 @@
+epoch,radius_m,ovality_amp_mm,peak_to_peak_mm,limit_mm
+1,15.0001,7.84,15.68,75
+2,14.9996,24.92,49.83,75
+3,15.0002,44.72,89.43,75
